@@ -1,0 +1,3 @@
+https://www.google.com
+https://www.python.org
+https://this-domain-is-100-percent-fake-and-dead.com
